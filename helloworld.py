@@ -1,1 +1,1 @@
-hello computer.
+print hello world
